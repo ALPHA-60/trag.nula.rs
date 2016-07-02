@@ -1,0 +1,12 @@
+{{ partial "header.html" . }}
+<main class="home">
+  <h1>{{ .Site.Title }}</h1>
+  <nav>
+    <ul>
+{{ range .Data.Pages.ByDate.Reverse }}
+      <li><a href="{{ .RelPermalink }}"> {{ .Title | markdownify }} </a></li>
+{{ end }}
+    </ul>
+  </nav>
+</main>
+{{ partial "footer.html" . }}

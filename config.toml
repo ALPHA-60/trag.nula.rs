@@ -1,0 +1,9 @@
+baseurl = "http://trag.nula.rs/"
+languageCode = "sr-Latn"
+title = "Trag tela"
+theme = "trag-tela"
+
+
+[params]
+
+  author = "Bojan Petrović"

@@ -1,0 +1,10 @@
+name = "Trag tela"
+description = "Tema za Trag tela"
+homepage = "http://trag.nula.rs/"
+tags = ["blog", ]
+features = ["blog", ]
+min_version = 0.13
+
+[author]
+    name = "Bojan Petrović"
+    homepage = "http://github.com/ALPHA-60"
