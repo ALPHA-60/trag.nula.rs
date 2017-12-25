@@ -15,8 +15,8 @@ revolucionarnoj borbi i ulozi vremena u njoj.
 
 .. raw:: html
 
-  <p><script src="//amara.org/embedder-iframe" type="text/javascript">// <![CDATA[    // ]]&gt;</script></p>
-  <div class="amara-embed" data-height="480px" data-width="640px" data-url="http://www.youtube.com/watch?v=hYxw8wKn7x8" data-show-subtitles-default="true"></div>
+  <p><script src="https://amara.org/embedder-iframe" type="text/javascript">// <![CDATA[    // ]]&gt;</script></p>
+  <div class="amara-embed" data-height="480px" data-width="640px" data-url="http://trag.nula.rs/ingirum.mp4" data-show-subtitles-default="true"></div>
 
 
 Titl je urađen na osnovu `prevoda <https://anarhisticka-biblioteka.net/library/guy-debord-in-girum-imus-nocte-et-consumimur-igni>`_
