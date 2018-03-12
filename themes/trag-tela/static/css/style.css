@@ -67,3 +67,7 @@ article hr {
 	height: 1px;
 	background-color: lightgray;
 }
+
+article img {
+    max-width: 100%;
+}

@@ -61,7 +61,7 @@ drugačije značenje od onog na koje ste navikli.
 Moje druga napomena upozorenja je ta da odbijam da raspravljam o
 akademskoj delatnosti iz finansijske perspektive. Prvi razlog je to
 što je sklonost da se razume, objasni ili opravda finansijskim
-razlozima škodljiva: to stvara etiku bestseler društva u kojem se
+razlozima škodljiva: ona stvara društvo u kojem se
 sposobnost da se proda brka sa kvalitetom. Nedavno smo raspravljali o
 profesionalnom kvalitetu jednog našeg kolege, u čiju korist je
 pomenuto da je jedan od njegovih doktoranata zaradio puno
