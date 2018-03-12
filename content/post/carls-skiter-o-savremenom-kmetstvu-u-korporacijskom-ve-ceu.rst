@@ -6,6 +6,17 @@ aliases = ["/carls-skiter-o-savremenom-kmetstvu-u-korporacijskom-ve-ceu/"]
 
 +++
 
+Tekst koji ćete čitati je prevod kratke priče „`Of Modern Serfdom in the
+Corporate Restroom
+<http://web.archive.org/web/20070812191544/http://franmagazine.com/extras/serfdom.html>`_“
+Čarlsa Skitera, objavljene 2005. na veb-sajtu losanđeleskog *Fran magazina*.
+List više ne izlazi, a veb-sajt je ugašen. Nisam uspeo da pronađem nikakve
+informacije o autoru priče.
+
+Za veliku pomoć u prevođenju zahvalan sam Nenadu Atanackoviću.
+
+----
+
 Gde ići odavde? Šta činiti?
 
 Imam samo jedno odelo i nosim ga svakog prokletog dana. Znojio sam se u
@@ -67,14 +78,3 @@ glavu tako da su mi se kolena ukopala u očne duplje.
 „Moram da izađem iz ovog“, zacvileh.
 
 „Izvini“, odgovori glas, „ali mislim da ne mogu da ti pomognem.“
-
----- 
-
-Tekst koji ste čitali je prevod kratke priče „`Of Modern Serfdom in the
-Corporate Restroom
-<http://web.archive.org/web/20070812191544/http://franmagazine.com/extras/serfdom.html>`_“
-Čarlsa Skitera, objavljene 2005. na veb-sajtu losanđeleskog *Fran magazina*.
-List više ne izlazi, a veb-sajt je ugašen. Nisam uspeo da pronađem nikakve
-informacije o autoru priče.
-
-Za veliku pomoć u prevođenju zahvalan sam Nenadu Atanackoviću.
