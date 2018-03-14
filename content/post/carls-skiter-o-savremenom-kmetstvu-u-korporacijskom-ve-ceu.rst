@@ -57,7 +57,7 @@ i dok mi je pola mozga brinulo o deliću koji se zalepio za zub i rastvarao
 gleđ, druga polovina je spazila šefovu novu sekretaricu.  Ne znam joj ime, a i
 siguran sam da joj niko nije rekao moje, ali me je pogledala i nasmešila se.
 Čak ni slabašnim osmehom. Bio je to neposredan, topao, privlačan osmeh.
-Poletela je uvis, užasna raketa puna nade. Njeno odlepljivanje od mog dna
+Poletela je uvis, užasna raketa nade. Njeno odlepljivanje od mog dna
 toliko mi je zagolicalo čmar da sam istog časa krenuo ka liftu. Nije bilo
 vremena da uzvratim osmehom. Pobegao sam. Dole na treći sprat i u moje
 utočište. Projurio sam hodnikom i eksplodirao kroz vrata kupatila. Kabine su
